@@ -41,7 +41,7 @@ Text Extraction App is an Android app that lets users pick an image from the gal
 
 
 <p align="center">
-  <img src="Home_Screen.jpg" alt="Home Screen" width="300" style="margin-right: 10px;">
+  <img src="Home_Screen.jpg" alt="Home Screen" width="300" style="margin-right: 40px;">
   <img src="Ocr_Screen.jpg" alt="OCR Screen" width="300">
 </p>
 
