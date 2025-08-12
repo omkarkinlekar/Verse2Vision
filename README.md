@@ -24,3 +24,17 @@ Text Extraction App is an Android app that lets users pick an image from the gal
 - Text Recognition: Google ML Kit (TextRecognition API)
 
 - UI: XML Layout + Material Design components
+
+🚀 How It Works:
+
+- Read The Terms And Conditions And Privacy Policy And Tick The Checkbox. (Note: If The Checkbox isnt tick You wont be able to continue)
+
+- Press The GetStarted Button To Go To The Ocr Screen. 
+
+- User selects an image from the gallery.
+
+- The image is processed using ML Kit’s OCR.
+
+- Extracted text is displayed on screen.
+
+- User can copy the text to clipboard.
