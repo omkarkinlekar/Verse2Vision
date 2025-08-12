@@ -38,3 +38,6 @@ Text Extraction App is an Android app that lets users pick an image from the gal
 - Extracted text is displayed on screen.
 
 - User can copy the text to clipboard.
+
+
+![App Screenshot](Home_Screen.jpg)
