@@ -51,5 +51,7 @@ Text Extraction App is an Android app that lets users pick an image from the gal
   </tr>
 </table>
 
+👨‍💻 **Author**
 
+Developed by [Omkarkinlekar](https://github.com/omkarkinlekar)  
 
